@@ -1,1 +1,1 @@
-function - does something wrong
+function - does something
